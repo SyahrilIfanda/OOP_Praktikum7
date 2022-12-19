@@ -14,5 +14,8 @@
 
 ## Output Asosiasi
 
+![Output Asosiasi](https://user-images.githubusercontent.com/116256448/208444877-1dd8a64d-9c60-478b-9af3-aee1cc3dfa59.png)
+
+
 
 
