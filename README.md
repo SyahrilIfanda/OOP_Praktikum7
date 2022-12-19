@@ -28,6 +28,11 @@
 
 ![UML Komposisi](https://user-images.githubusercontent.com/116256448/208445526-a42573ac-c5c9-4355-ae89-4425711a0b4a.png)
 
+## Output Komposisi
+
+![Output Komposisi](https://user-images.githubusercontent.com/116256448/208445698-cddfd835-97e2-4a4c-9a89-994a16967fce.png)
+
+
 
 
 
