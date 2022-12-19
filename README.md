@@ -16,6 +16,11 @@
 
 ![Output Asosiasi](https://user-images.githubusercontent.com/116256448/208444877-1dd8a64d-9c60-478b-9af3-aee1cc3dfa59.png)
 
+## UML Dependensi
+
+![UML dependensi](https://user-images.githubusercontent.com/116256448/208445164-ec64014c-c925-47c9-821c-40d0d2805fb8.png)
+
+
 
 
 
