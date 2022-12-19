@@ -20,6 +20,11 @@
 
 ![UML dependensi](https://user-images.githubusercontent.com/116256448/208445164-ec64014c-c925-47c9-821c-40d0d2805fb8.png)
 
+## Output Dependensi
+
+![Output dependensi](https://user-images.githubusercontent.com/116256448/208445342-3b85e57b-b4a5-4a8b-ac85-75f9b986634e.png)
+
+
 
 
 
