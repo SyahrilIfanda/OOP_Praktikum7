@@ -24,6 +24,11 @@
 
 ![Output dependensi](https://user-images.githubusercontent.com/116256448/208445342-3b85e57b-b4a5-4a8b-ac85-75f9b986634e.png)
 
+## UML Komposisi
+
+![UML Komposisi](https://user-images.githubusercontent.com/116256448/208445526-a42573ac-c5c9-4355-ae89-4425711a0b4a.png)
+
+
 
 
 
