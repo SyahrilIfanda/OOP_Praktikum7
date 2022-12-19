@@ -12,3 +12,7 @@
 
 ![uml asosiasi](https://user-images.githubusercontent.com/116256448/208444459-9bdc05ef-5eba-4b78-bf81-4117cd8d279a.png)
 
+## Output Asosiasi
+
+
+
